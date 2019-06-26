@@ -42,7 +42,7 @@ public class Teacher {
     public Teacher() {
     }
 
-    
+
 
 
     public Long getId() {
