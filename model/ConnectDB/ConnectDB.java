@@ -40,7 +40,7 @@ public class ConnectDB {
 //            st.update("1",new Student("ali","rezaei"));
 
 
-        TeacherDAO th=new TeacherDaoImpl();
+        TeacherDao th=new TeacherDaoImpl();
 //        Teacher th1=new Teacher("ali","farahani","130",1500000,"1983-04-02");
 //        Teacher th4=new Teacher("reza","asgari","131",1200000,"1990-02-05");
 //        Teacher th5=new Teacher("xaniar","farahani","134",1300000,"1998-07-07");
